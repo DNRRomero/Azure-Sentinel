@@ -1,5 +1,5 @@
 {
-	"publisherId": "azuresentinel",
+	"publisherId": "zerofox1598902945403",
 	"offerId": "azure-sentinel-solution-zerofox",
 	"firstPublishDate": "2023-07-28",
 	"providers": [ "ZeroFox" ],
@@ -9,8 +9,8 @@
 	},
 	"support": {
 		"tier": "Microsoft",
-		"name": "Microsoft Corporation",
-		"email": "support@microsoft.com",
-		"link": "https://support.microsoft.com/"
+		"name": "zerofox1598902945403",
+		"email": "ask@zerofox.com",
+		"link": "ask@zerofox.com"
 	}
 }
